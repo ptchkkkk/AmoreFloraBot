@@ -13,10 +13,10 @@ dp = Dispatcher(bot)
 
 # --- Ссылки на каналы по городам ---
 CITY_CHANNELS = {
-    "Москва": "https://t.me/YOUR_MOSCOW_CHANNEL",
-    "Санкт-Петербург": "https://t.me/YOUR_SPB_CHANNEL",
-    "Казань": "https://t.me/YOUR_KAZAN_CHANNEL",
-    "Екатеринбург": "https://t.me/YOUR_EKB_CHANNEL"
+    "Москва": "https://t.me/amorefloraMoscow",
+    "Санкт-Петербург": "https://t.me/amorefloraSanktPetersburg",
+    "Казань": "https://t.me/amorefloraKazan",
+    "Екатеринбург": "https://t.me/amorefloraEkaterenburg"
 }
 
 # --- Клавиатуры ---
